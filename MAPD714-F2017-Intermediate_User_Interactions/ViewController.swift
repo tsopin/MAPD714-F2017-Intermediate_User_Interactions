@@ -1,10 +1,10 @@
-//
-//  ViewController.swift
-//  MAPD714-F2017-Intermediate_User_Interactions
-//
-//  Created by Timofei Sopin on 2017-09-20.
-//  Copyright © 2017 Centennial College. All rights reserved.
-//
+/*
+ * Name: Timofei Sopin
+ * Date: September 20, 2017
+ * StudentID: 300965775
+ * Desctiption: Intermediate User Interface Demo
+ * Version: 0.1 - Built Basic UI
+ */
 
 import UIKit
 
